@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>HoldMyNotes</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Sat, 29 Aug 2026 02:41:59 +0530</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.1.0/HoldMyNotes-1.1.0.dmg" length="7041652" type="application/octet-stream" sparkle:edSignature="JoufB7JPLmsVzDn8em5E5UVdE0VAJSvGe8AT8mF7d8W7ckiEeveXzhriecxh5kw/AtpJUu4xqpNHbvE7GAi7Ag=="/>
+        </item>
+    </channel>
+</rss>
