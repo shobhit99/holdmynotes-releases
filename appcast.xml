@@ -3,12 +3,12 @@
     <channel>
         <title>HoldMyNotes</title>
         <item>
-            <title>1.2.0</title>
-            <pubDate>Sat, 29 Aug 2026 02:55:22 +0530</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <title>1.2.1</title>
+            <pubDate>Sat, 29 Aug 2026 03:09:09 +0530</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.2.0/HoldMyNotes-1.2.0.dmg" length="7435823" type="application/octet-stream" sparkle:edSignature="QRRIF8fv2Ovyvy5ZXOiwGn42kthvrNjTwHnrubGuf021VfRiUbcN+1WBxdkQxf2gyrBtCHt5pQxPXpMG+T5UCQ=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.2.1/HoldMyNotes-1.2.1.dmg" length="7443842" type="application/octet-stream" sparkle:edSignature="ngEf2IEY6CaXEkJrTGade5Vof+7RpFfB0SUddiy5zUUS3/2bkxId/5FEPeCZXqpBP0XoiSnBDU06SohJTsVkAg=="/>
         </item>
     </channel>
 </rss>
