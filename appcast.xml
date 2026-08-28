@@ -4,7 +4,7 @@
         <title>HoldMyNotes</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Sat, 29 Aug 2026 05:18:17 +0530</pubDate>
+            <pubDate>Sat, 29 Aug 2026 05:25:39 +0530</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
@@ -15,7 +15,7 @@
 <li>The menu also reaches All Notes directly</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.1/HoldMyNotes-1.0.1.dmg" length="7596690" type="application/octet-stream" sparkle:edSignature="QpG1zs8ZYQOWU+aROWsa7vpKM1Q+Mvv/yA2a38ox9s13vfcshQxZwk3TC1wzOH7tEk+KpjTA3GD6m0xD/bfbAw=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.1/HoldMyNotes-1.0.1.dmg" length="7596655" type="application/octet-stream" sparkle:edSignature="FJgQTllW+z+qrBoT4f+jai5DbjxbiX5cVE8x3fPjSJ6ly8mD2wBkOxqUaEhEpQ7IIhkzMdGl2uXjbSVv4/y8CQ=="/>
         </item>
     </channel>
 </rss>
