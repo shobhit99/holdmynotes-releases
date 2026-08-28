@@ -3,19 +3,19 @@
     <channel>
         <title>HoldMyNotes</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Sat, 29 Aug 2026 05:06:12 +0530</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.0</title>
+            <pubDate>Sat, 29 Aug 2026 05:11:34 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hold My Notes 1.0.2</h3>
+            <description><![CDATA[<h3>Hold My Notes 1.0.0</h3>
 <ul>
 <li>Fixed automatic updates failing with "An error occurred while running the updater" — the sandboxed installer service is now bundled and signed correctly</li>
 <li>Update dialogs now show what changed in each release</li>
 <li>The note editor's Pin moved to the top right as a real pin, with Mark complete and Close along the bottom</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.2/HoldMyNotes-1.0.2.dmg" length="7592392" type="application/octet-stream" sparkle:edSignature="LegaqdOgan459f/1tYP45C3XQK+O/H+p+YjQA5mGX0vJJ5Y4oj0b47ydAOkKSMeID8D+M0zv0cVaC1qYNENRDA=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.0/HoldMyNotes-1.0.0.dmg" length="7592409" type="application/octet-stream" sparkle:edSignature="vnH1vG6an17/b3BXcQpKBwQzI57bCpMlqxmINLU2s8MM9GrJjBSbZoS8rt4sjbx+sLV3B74RcxnQ5/JGPSgLBg=="/>
         </item>
     </channel>
 </rss>
