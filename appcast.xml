@@ -3,19 +3,20 @@
     <channel>
         <title>HoldMyNotes</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Sat, 29 Aug 2026 05:25:39 +0530</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Sat, 29 Aug 2026 05:42:23 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hold My Notes 1.0.1</h3>
+            <description><![CDATA[<h3>Hold My Notes 1.0.2</h3>
 <ul>
-<li>The note's right-click menu now shows the real note colors in the Color submenu</li>
-<li>Every menu item has an icon, in both the note menu and the pill menu</li>
-<li>The menu also reaches All Notes directly</li>
+<li>The close dot at the top of a note now works, and closing always works even when the note is pinned</li>
+<li>A new note opens where you last left one, instead of snapping back to the screen edge</li>
+<li>The pointer turns into a hand wherever the note's title bar can be dragged</li>
+<li>Fixes "An error occurred while running the updater" when installing updates</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.1/HoldMyNotes-1.0.1.dmg" length="7596655" type="application/octet-stream" sparkle:edSignature="FJgQTllW+z+qrBoT4f+jai5DbjxbiX5cVE8x3fPjSJ6ly8mD2wBkOxqUaEhEpQ7IIhkzMdGl2uXjbSVv4/y8CQ=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.2/HoldMyNotes-1.0.2.dmg" length="7603722" type="application/octet-stream" sparkle:edSignature="2tD5NuPUeJYhw6KuDCw8fxgpHM/saysZ0kHeif1FRiHl/3ICxR+fq461N89iVUh/UxOoTiEdng1DvcD5+uQ8DQ=="/>
         </item>
     </channel>
 </rss>
