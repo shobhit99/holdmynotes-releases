@@ -3,21 +3,22 @@
     <channel>
         <title>HoldMyNotes</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Sat, 29 Aug 2026 06:07:12 +0530</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Sat, 29 Aug 2026 21:49:44 +0530</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hold My Notes 1.0.3</h3>
+            <description><![CDATA[<h3>Hold My Notes 1.0.4</h3>
 <ul>
-<li>Choose which side of the screen your notes live on — Left or Right — from the menu bar or by right-clicking a note</li>
-<li>The note's right-click menu now shows the real note colors, and every item has an icon</li>
-<li>Fixes "An error occurred while running the updater" when installing updates</li>
-<li>The close dot at the top of a note works, and closing works even when the note is pinned</li>
-<li>A new note opens where you last left one; the pointer shows a hand where the title bar can be dragged</li>
+<li>Marking a note complete now archives it — there is no separate "done" state, and the filters are simply All, Active and Archived</li>
+<li>Delete notes straight from All Notes, with ten seconds to undo</li>
+<li>The note preview is a fixed-height card showing when it was created and last updated</li>
+<li>Your subscription status is back in the menu bar</li>
+<li>Buttons respond across their whole surface, with hover and press feedback</li>
+<li>Tighter window headers in All Notes and the Archive</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.3/HoldMyNotes-1.0.3.dmg" length="7516354" type="application/octet-stream" sparkle:edSignature="zIzLrf4JxVH14/Hpo3GTFF43ObGi/Im0NPjHphh6MaWcfSpVzL2WGc0ThuHO+iME77KMkvG1NoWnEYpaIOJGCg=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.4/HoldMyNotes-1.0.4.dmg" length="7610512" type="application/octet-stream" sparkle:edSignature="7eUmt3Sw5nc4+fqWLy+fA+zTGoVPqZTX19NCAuUZb0mnGT+Uet6eD/9pyL76xdjxEb9LiA/wpikin4qjt0+FAw=="/>
         </item>
     </channel>
 </rss>
