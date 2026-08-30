@@ -3,20 +3,23 @@
     <channel>
         <title>HoldMyNotes</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Sun, 30 Aug 2026 01:15:09 +0530</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Sun, 30 Aug 2026 19:41:36 +0530</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hold My Notes 1.0.5</h3>
+            <description><![CDATA[<h3>Hold My Notes 1.0.6</h3>
 <ul>
-<li>Pasting into a note works again — ⌘V had been silently doing nothing</li>
-<li>Your licence now lives in Settings, with its own section: subscription status, a key field to activate a subscription you already have, and a way to release the seat when you stop using a Mac</li>
-<li>A green tick on the licence card tells you at a glance that this Mac is activated</li>
-<li>The menu bar's subscription item opens Settings instead of a separate window</li>
+<li>Checklists in notes: type [] to start one, or press the button beside the colours. Enter makes the next item, and Enter on an empty one ends the list. Click a box to tick it, and the deck's card previews show the boxes too</li>
+<li>Keep the deck open: the notes stand at the edge all the time instead of resting as the dots (Settings › General)</li>
+<li>Cards can open on a click instead of on hover, if you would rather the deck only fanned out when you point at it (Settings › General › Fan notes)</li>
+<li>⌘W closes the note you are in</li>
+<li>A grip beside the pin drags a note around the screen, and a note can no longer be resized so narrow that its buttons are cut off</li>
+<li>The hard-edged shadow that appeared around the deck after a menu or a note window had covered it is gone</li>
+<li>Settings opens on General, and the deck's own menus can reach it; both font pickers now show each face in its own handwriting</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.5/HoldMyNotes-1.0.5.dmg" length="7818414" type="application/octet-stream" sparkle:edSignature="z4BprRrjP0aFuecPjlgPGj7kDGu8ZjDvnUXH2dvbISe03JtYZRfxza4yti/IT1HVaEpSD1uE0dPha0Bgq0iTBA=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.6/HoldMyNotes-1.0.6.dmg" length="7881736" type="application/octet-stream" sparkle:edSignature="H5qFELpXjkXlovLVjpN6mpzllcyXrKEGj6Db4qS4TtEH5Q04H+Fft7UxF51CpzlBs9Fd5jAXUMO6mXZ1iM5cCw=="/>
         </item>
     </channel>
 </rss>
