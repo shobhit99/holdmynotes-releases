@@ -3,23 +3,20 @@
     <channel>
         <title>HoldMyNotes</title>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Sun, 30 Aug 2026 19:41:36 +0530</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.0.7</title>
+            <pubDate>Mon, 31 Aug 2026 09:30:14 +0530</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hold My Notes 1.0.6</h3>
+            <description><![CDATA[<h3>Hold My Notes 1.0.7</h3>
 <ul>
-<li>Checklists in notes: type [] to start one, or press the button beside the colours. Enter makes the next item, and Enter on an empty one ends the list. Click a box to tick it, and the deck's card previews show the boxes too</li>
-<li>Keep the deck open: the notes stand at the edge all the time instead of resting as the dots (Settings › General)</li>
-<li>Cards can open on a click instead of on hover, if you would rather the deck only fanned out when you point at it (Settings › General › Fan notes)</li>
-<li>⌘W closes the note you are in</li>
-<li>A grip beside the pin drags a note around the screen, and a note can no longer be resized so narrow that its buttons are cut off</li>
-<li>The hard-edged shadow that appeared around the deck after a menu or a note window had covered it is gone</li>
-<li>Settings opens on General, and the deck's own menus can reach it; both font pickers now show each face in its own handwriting</li>
+<li>Links in notes: an address you type or paste now reads as one, and a click opens it. Hold any key while clicking to put the caret inside it instead</li>
+<li>The deck's dots sit at the exact middle of the screen edge, and the notes come out level with them — a single note no longer appears up at the top</li>
+<li>Smaller text: notes can now be set to 14, 12 or 10 pt as well as the larger sizes (Settings › General › Text size)</li>
+<li>A new typeface, Inconsolata — the open face drawn after Consolas (Settings › General › Handwriting)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.6/HoldMyNotes-1.0.6.dmg" length="7881736" type="application/octet-stream" sparkle:edSignature="H5qFELpXjkXlovLVjpN6mpzllcyXrKEGj6Db4qS4TtEH5Q04H+Fft7UxF51CpzlBs9Fd5jAXUMO6mXZ1iM5cCw=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.7/HoldMyNotes-1.0.7.dmg" length="7946013" type="application/octet-stream" sparkle:edSignature="2ZAz9wnovRJ7dHRYZ2lZdINfR9W2BykEVCVPeebFlsIsV8C7sKvN8m6vU6oww8fZd5kBURVZi+OMnrAbGzRFBQ=="/>
         </item>
     </channel>
 </rss>
