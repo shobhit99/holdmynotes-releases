@@ -3,20 +3,21 @@
     <channel>
         <title>HoldMyNotes</title>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Mon, 31 Aug 2026 09:30:14 +0530</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Tue, 01 Sep 2026 10:24:44 +0530</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hold My Notes 1.0.7</h3>
+            <description><![CDATA[<h3>Hold My Notes 1.0.8</h3>
 <ul>
-<li>Links in notes: an address you type or paste now reads as one, and a click opens it. Hold any key while clicking to put the caret inside it instead</li>
-<li>The deck's dots sit at the exact middle of the screen edge, and the notes come out level with them — a single note no longer appears up at the top</li>
-<li>Smaller text: notes can now be set to 14, 12 or 10 pt as well as the larger sizes (Settings › General › Text size)</li>
-<li>A new typeface, Inconsolata — the open face drawn after Consolas (Settings › General › Handwriting)</li>
+<li>The deck can dock to the bottom of the screen: the notes lie along it as a row of tabs, each carrying its name, and a tab rises when you point at it (Settings › General › Screen side)</li>
+<li>"Show over full-screen apps" now does something when it is switched off. The deck and your pinned notes used to sit on top of a full-screen app whichever way the switch was thrown; with it off they stay on your desktops and leave full screen alone</li>
+<li>On a left-docked deck the start of every line is no longer clipped, and a tab carries its whole name instead of the first word</li>
+<li>A note's text no longer flashes on a moment after the card has come to rest</li>
+<li>A note's close dot and its neighbour are drawn at the size a real title bar uses, and the ring around the colour you have chosen is tucked in close instead of standing proud of the row</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.7/HoldMyNotes-1.0.7.dmg" length="7946013" type="application/octet-stream" sparkle:edSignature="2ZAz9wnovRJ7dHRYZ2lZdINfR9W2BykEVCVPeebFlsIsV8C7sKvN8m6vU6oww8fZd5kBURVZi+OMnrAbGzRFBQ=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.8/HoldMyNotes-1.0.8.dmg" length="7955608" type="application/octet-stream" sparkle:edSignature="AAtH07I7eDhJMzqgvlbGn35ulFVagzaC63VezLT1xe9m6N2AJqAPFcIpY62dm3upGuXHLfYThl9986aBjm6mDA=="/>
         </item>
     </channel>
 </rss>
