@@ -10,13 +10,13 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h3>Hold My Notes 1.0.9</h3>
 <ul>
-<li>Six dots beside the "+" carry the deck: drag to slide it along its edge, pull it out to pick it up and drop it on the left, right or bottom of the screen. It stays where you leave it, and new notes open beside it</li>
-<li>Settings › General › Display keeps the deck to one display when you have several</li>
-<li>Settings › Keyboard: click a shortcut and press the keys to change it, or take it away with the ×. New: ⌥⌘E changes the deck's position, ⌃⌥⌘H hides the deck and notes, ⌘, opens Settings from a note, ⌘W closes All Notes and the Archive. ⌥⌘L is now All Notes and ⌥⌘A the Archive</li>
-<li>The deck opens only from the dots, after the pointer rests on them for the open delay (Settings › General, a slider from instant to 1 s, 50 ms by default), so brushing the edge no longer brings it out</li>
-<li>An unpinned note stays open when you switch apps, shows in Mission Control and Stage Manager, comes to the front when clicked or opened, and puts the app in ⌘-Tab. A pinned note stays above every other window</li>
-<li>A note dragged into the screen edge stops there whole</li>
-<li>Settings can be resized, shows the app's icon, and the × that clears a shortcut sits inside its field</li>
+<li>A drag handle beside the "+" carries the deck: drag it to slide the deck along its edge, or pull it out to pick the deck up and drop it on the left, right or bottom of the screen</li>
+<li>Settings › General › Display: choose which display the deck appears on, or all of them</li>
+<li>Settings › Keyboard: configurable hotkeys. New: ⌥⌘E changes the deck's position, ⌃⌥⌘H hides the deck and notes, ⌘, opens Settings from a note and ⌘W closes All Notes and the Archive. ⌥⌘L is now All Notes and ⌥⌘A the Archive</li>
+<li>Reduced the activation area for the sticky notes deck</li>
+<li>Added an activation-delay setting: a slider from 0 to 1 s (default 50 ms)</li>
+<li>Fixed a bug where an unpinned note closed when it lost focus</li>
+<li>Settings can be resized, and the app shows up in ⌘-Tab</li>
 </ul>
 ]]></description>
             <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.9/HoldMyNotes-1.0.9.dmg" length="8137422" type="application/octet-stream" sparkle:edSignature="9ZeVyunmDnEyXGNUvYkbxOgckfxtMwqovL/oW28JI8JrebQtt65qnHdEgvsvsnWQyCMGpnkp1oDsFQsHhWkRCg=="/>
