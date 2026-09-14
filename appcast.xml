@@ -3,23 +3,26 @@
     <channel>
         <title>HoldMyNotes</title>
         <item>
-            <title>1.0.11</title>
-            <pubDate>Wed, 09 Sep 2026 06:16:21 +0530</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Mon, 14 Sep 2026 23:31:26 +0530</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hold My Notes 1.0.11</h3>
+            <description><![CDATA[<h3>Hold My Notes 1.1.0</h3>
 <ul>
-<li>Fixes a crash: undoing a deleted note twice (from the toast and with ⌘Z, or after sync had already brought it back) could quit the app on the next keystroke, in any note</li>
-<li>Fixes a freeze: deleting text inside a bold word above a list could leave the note ignoring everything typed after it</li>
-<li>Deleting a note is now ⇧⌘⌫, so ⌘⌫ deletes the line before the caret as it does everywhere on the Mac. The toast that follows counts down its ten seconds, with Undo beside it</li>
-<li>Sync: a note deleted on one Mac stays deleted on every Mac, and the sync folder clears its old delete markers on its own</li>
-<li>Drag a note by the empty part of its header, next to the title</li>
-<li>⌘Z after flipping to another note and back no longer acts on the note you left</li>
-<li>The checklist button keeps a line with an emoji intact</li>
+<li>Headings: start a line with <code># </code>, <code>## </code> or <code>### </code>, or pick a level from the new formatting bar. They are sized from your note's own text size, so they read right whichever font you use</li>
+<li>A formatting bar, opened with the <code>Aa</code> button next to the checklist one: heading level, bold, italic, strikethrough, links, bulleted and numbered lists, and the note's typeface</li>
+<li>Links: select some words, press the link button, and type an address. Paste one first and it is filled in for you. The address stays out of the way until you put the caret in the link to change it</li>
+<li>Strikethrough, written <code>~~like this~~</code></li>
+<li>Every note can have its own typeface. The one in Settings is the starting point for new notes</li>
+<li>The font list now offers every font installed on your Mac, below the handful the app ships with</li>
+<li>Selecting text now also offers heading levels and a link, beside bold, italic and underline</li>
+<li>Markdown Folder, in Settings: keep a copy of every note as a .md file in a folder you choose — point it at your Obsidian vault and your notes appear there. It writes only the files it made, and leaves everything else in that folder alone</li>
+<li>Open at login, in Settings</li>
+<li>The five colour swatches are now one button that opens a colour picker, leaving the note's footer less crowded</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.0.11/HoldMyNotes-1.0.11.dmg" length="8341443" type="application/octet-stream" sparkle:edSignature="m/0W49wddNHdsXTXx6wVFV06qIxi6L9i4e9p68fq5+N2DinwCR7t75zfu2P7bjHym5lhonBqR1s/ADXThfr/CA=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.1.0/HoldMyNotes-1.1.0.dmg" length="8547067" type="application/octet-stream" sparkle:edSignature="sHrROREF8kE3DQgFUb/gaZ46Dkrm+APiz+f4590j7DB2Dnocm0SOEj9faG8gZEv2AMLB1QKIwpsQmUK9/ZIXAA=="/>
         </item>
     </channel>
 </rss>
