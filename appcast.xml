@@ -3,26 +3,19 @@
     <channel>
         <title>HoldMyNotes</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Mon, 14 Sep 2026 23:31:26 +0530</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Tue, 20 Oct 2026 04:08:43 +0530</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hold My Notes 1.1.0</h3>
+            <description><![CDATA[<h3>Hold My Notes 1.1.1</h3>
 <ul>
-<li>Headings: start a line with <code># </code>, <code>## </code> or <code>### </code>, or pick a level from the new formatting bar. They are sized from your note's own text size, so they read right whichever font you use</li>
-<li>A formatting bar, opened with the <code>Aa</code> button next to the checklist one: heading level, bold, italic, strikethrough, links, bulleted and numbered lists, and the note's typeface</li>
-<li>Links: select some words, press the link button, and type an address. Paste one first and it is filled in for you. The address stays out of the way until you put the caret in the link to change it</li>
-<li>Strikethrough, written <code>~~like this~~</code></li>
-<li>Every note can have its own typeface. The one in Settings is the starting point for new notes</li>
-<li>The font list now offers every font installed on your Mac, below the handful the app ships with</li>
-<li>Selecting text now also offers heading levels and a link, beside bold, italic and underline</li>
-<li>Markdown Folder, in Settings: keep a copy of every note as a .md file in a folder you choose — point it at your Obsidian vault and your notes appear there. It writes only the files it made, and leaves everything else in that folder alone</li>
-<li>Open at login, in Settings</li>
-<li>The five colour swatches are now one button that opens a colour picker, leaving the note's footer less crowded</li>
+<li>Tables: paste or type a markdown table (a <code>| Name | Role |</code> header over a <code>| --- | --- |</code> row) and it is drawn as a grid, with cells that wrap to fit the note. Click a cell to edit the table's markdown, and it turns back into a grid when the caret leaves</li>
+<li>Swipe a note into the deck: with an open note, swipe two fingers toward the deck and the note shrinks away into it, closed just as Esc closes it</li>
+<li>Fixes Chinese, Japanese and Korean typing: a word still being composed with an input method could vanish before you picked its characters</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.1.0/HoldMyNotes-1.1.0.dmg" length="8547067" type="application/octet-stream" sparkle:edSignature="sHrROREF8kE3DQgFUb/gaZ46Dkrm+APiz+f4590j7DB2Dnocm0SOEj9faG8gZEv2AMLB1QKIwpsQmUK9/ZIXAA=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.1.1/HoldMyNotes-1.1.1.dmg" length="8632624" type="application/octet-stream" sparkle:edSignature="at/wP4zE4NNeHzuds4MJbs4Lgz4RXDGSZ1gzWXyJiOBLrfyr0WO1F/42FLCqUPxb3ylQ8bcHtzPevrvjyqYRCw=="/>
         </item>
     </channel>
 </rss>
