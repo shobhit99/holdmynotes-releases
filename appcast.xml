@@ -3,26 +3,20 @@
     <channel>
         <title>HoldMyNotes</title>
         <item>
-            <title>1.2.0</title>
-            <pubDate>Wed, 21 Oct 2026 03:41:52 +0530</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <title>1.3.0</title>
+            <pubDate>Wed, 25 Nov 2026 02:25:14 +0530</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hold My Notes 1.2.0</h3>
+            <description><![CDATA[<h3>Hold My Notes 1.3.0</h3>
 <ul>
-<li>Note colours of your own: in Settings › General › Note colours, make one with the new colour picker, from soft starter colours, a shading pad, a hue slider or a hex code. They join the five in every note's colour tray, the deck card's Color menu and ⌘. cycling</li>
-<li>Give a note an emoji with the new button before its title: a grid of everyday ones, a search over all of them, or More emoji… for the Mac's own picker. It shows in All Notes and on the deck, so a note is easy to spot. Settings › Title emoji turns the button off</li>
-<li>Auto-hide toolbar, in Settings: a note's bottom toolbar fades after 2 seconds unused and the text runs to the bottom of the note. Rest the pointer at the bottom of the note for half a second to bring it back</li>
-<li>Tables: paste or type a markdown table (a <code>| Name | Role |</code> header over a <code>| --- | --- |</code> row) and it is drawn as a grid, with cells that wrap to fit the note. Click a cell to edit the table's markdown, and it turns back into a grid when the caret leaves</li>
-<li>Swipe a note into the deck: with an open note, swipe two fingers toward the deck and the note shrinks away into it, closed just as Esc closes it</li>
-<li>The note's top bar loses its drag handle, leaving the title more room. Drag a note by the empty stretch between its title and its buttons</li>
-<li>Fixes Hold My Notes icons piling up in the Dock: opening and closing notes quickly could leave a stale icon behind each time, until the Dock was restarted</li>
-<li>Fixes Chinese, Japanese and Korean typing: a word still being composed with an input method could vanish before you picked its characters</li>
-<li>Fixes the dashed line on deck cards running through their rounded corners when the deck is on the left of the screen</li>
-<li>The app now says what Hold My Notes is: a one-time purchase, with no subscription</li>
+<li>Every note can have its own text size: pick it from the number beside the typeface in the formatting bar (the <code>Aa</code> button). A note you have not sized follows the size in Settings, as before, and its size syncs with the note</li>
+<li>New notes start in the typeface and size you last picked in a note, instead of going back to Virgil each time. Choosing a font in Settings makes that the starting point again</li>
+<li>The deck card's preview now shows a note in its own typeface, not the one from Settings</li>
+<li>A title emoji no longer sits on a grey tint. The tint appears when you point at it, so it still reads as a button</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.2.0/HoldMyNotes-1.2.0.dmg" length="8804729" type="application/octet-stream" sparkle:edSignature="szPMq6D3pRZpsUu5mBSL30QiJgVutfcjbXBNuHImCcN37JU4rmqvONsH6zHxVZfIIYCN/UQI/4F3DgebuLUWDg=="/>
+            <enclosure url="https://github.com/shobhit99/holdmynotes-releases/releases/download/v1.3.0/HoldMyNotes-1.3.0.dmg" length="8814009" type="application/octet-stream" sparkle:edSignature="nFUH9sNj8fYGZSMfGfVq9+SWIPg01pheOwq2m4+DlVoi0G48My+7yJCwi0tDYs9aHJVzy6zaLnOwUMvgThBADQ=="/>
         </item>
     </channel>
 </rss>
